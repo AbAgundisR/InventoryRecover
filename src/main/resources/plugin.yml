@@ -1,0 +1,6 @@
+name: DamianNylonInventoryRecover
+version: '${project.version}'
+main: me.damiannylon.damiannyloninventoryrecover.DamianNylonInventoryRecover
+api-version: 1.18
+authors: [ DamianNylon ]
+description: Inventory recover plugin by DamianNylon
