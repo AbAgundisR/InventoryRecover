@@ -4,3 +4,7 @@ main: me.damiannylon.damiannyloninventoryrecover.DamianNylonInventoryRecover
 api-version: 1.18
 authors: [ DamianNylon ]
 description: Inventory recover plugin by DamianNylon
+commands:
+  invrestore:
+    description: Restore your inventory
+    usage: /<command>
